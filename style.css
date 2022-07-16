@@ -1,0 +1,11 @@
+#video{
+    width:100%;
+    height:500px;
+    border: none;
+}
+.links{
+    list-style: none;
+    float: left;
+    padding: 10px;
+    font-size: 18px;
+}
